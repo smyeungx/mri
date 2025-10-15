@@ -3,5 +3,13 @@ SMCS Internet Connection drop very often
 - [Internet Connection Sharing on Prodiva Console](https://learn.microsoft.com/en-gb/troubleshoot/windows-client/networking/ics-not-work-after-computer-or-service-restart).
 
 What's the Network Configuration for Prodiva and SMCS
-- Prodiva: IP 10.0.0.1, Subnet Mask: 255.255.255.0, Gateway: Do not fill, DNS: Do not fill
-- SMCS: IP 10.0.0.5, Subnet Mask: 255.255.255.0, Gateway: 10.0.0.1, DNS: 10.0.0.1
+- Prodiva:
+ - IP 10.0.0.1
+ - Subnet Mask: 255.255.255.0
+ - Gateway: Do not fill
+ - DNS: Do not fill
+- SMCS:
+ - IP 10.0.0.5
+ - Subnet Mask: 255.255.255.0
+ - Gateway: 10.0.0.1
+ - DNS: 10.0.0.1

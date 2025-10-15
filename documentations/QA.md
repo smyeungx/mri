@@ -4,12 +4,12 @@ SMCS Internet Connection drop very often
 
 What's the Network Configuration for Prodiva and SMCS
 - Prodiva:
- - IP 10.0.0.1
- - Subnet Mask: 255.255.255.0
- - Gateway: Do not fill
- - DNS: Do not fill
+  - IP 10.0.0.1
+  - Subnet Mask: 255.255.255.0
+  - Gateway: Do not fill
+  - DNS: Do not fill
 - SMCS:
- - IP 10.0.0.5
- - Subnet Mask: 255.255.255.0
- - Gateway: 10.0.0.1
- - DNS: 10.0.0.1
+  - IP 10.0.0.5
+  - Subnet Mask: 255.255.255.0
+  - Gateway: 10.0.0.1
+  - DNS: 10.0.0.1
